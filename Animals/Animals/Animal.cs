@@ -11,5 +11,7 @@ namespace Animals
         public abstract int NumLegs { get; set; }
         public abstract bool HasFur { get; set; }
         public abstract bool GivesLiveBirth { get; }
+
+        Canine;
     }
 }
