@@ -1,1 +1,5 @@
 C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\Animals\bin\Debug\Animals.exe.config
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\Animals\bin\Debug\Animals.exe
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\Animals\bin\Debug\Animals.pdb
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\Animals\obj\Debug\Animals.exe
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\Animals\obj\Debug\Animals.pdb

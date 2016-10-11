@@ -1,0 +1,8 @@
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\obj\Debug\AnimalsTests.csprojResolveAssemblyReference.cache
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\bin\Debug\AnimalsTests.dll
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\bin\Debug\AnimalsTests.pdb
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\bin\Debug\Animals.exe
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\bin\Debug\Animals.pdb
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\obj\Debug\AnimalsTests.dll
+C:\Users\Christopher Newby\Source\Repos\WEEK3-DAY22\Animals\AnimalsTests\obj\Debug\AnimalsTests.pdb
